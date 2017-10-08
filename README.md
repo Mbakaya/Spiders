@@ -1,2 +1,2 @@
-# Afripy
-Weever here! python ninja | Recent Machine learning  love , hope to dive into more py projects and post them up . lab crushed had to re-new love with git and bit-bucket! 
+This is a slide of getting deeper into machine learning.
+this is not for you who wants ot simply leverage the power behind machine learning but for the one who actually wants to dive into the deep end to carry out research or ponder at how machine learning gets to occur on a "backend" level.
